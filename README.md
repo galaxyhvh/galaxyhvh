@@ -1,3 +1,1 @@
-### Hi there 👋
-
-lua "coder"
+### lua "coder"
